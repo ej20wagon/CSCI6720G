@@ -1,0 +1,1 @@
+Explore progressively advanced neural network architectures for visual classification. Begin with a simple multilayer perceptron (MLP) baseline, then incorporate spatial structure via convolutional networks, and finally experiment with deeper and more modern architectures such as residual and transformer-based models.
